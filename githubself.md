@@ -39,9 +39,9 @@ Pull Request，指开发者在本地对源代码进行更改后，向GitHub中�
 
 由于也提供了Wiki功能，开发者可以轻松创建文档，进行公开、共享。
 
-> Issue
+> 特点
 
-* 在GitHub上，每当进行我们即将讲解的Pull Request，都会同时创建一个Issue
+* Issue 在GitHub上，每当进行我们即将讲解的Pull Request，都会同时创建一个Issue
 * 在Git的提交信息中写上Issue的ID（例如“#5”），GitHub就会自动生成从Issue到对应提交的链接
 * Wiki 该功能常用在开发文档或手册的编写中
 * Pull Request 向别人的仓库提出申请，请求对方合并（可以以行为单位对源代码添加评论）
@@ -50,3 +50,6 @@ Pull Request，指开发者在本地对源代码进行更改后，向GitHub中�
 
 ##### Git导入
 
+***
+
+remarks：cd \..  ubuntu命令行返回父文件夹
