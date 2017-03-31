@@ -9,6 +9,12 @@ GitHub Flavored Markdown语法 (文件后缀名为MD，可直接在编辑状态�
 <pre><code>这是一个代码区块
 </code></pre>
 
+<ol>
+<li>Bird</li>
+<li>McHale</li>
+<li>Parish</li>
+</ol>
+
 ### GitHub简介
 
 ***
