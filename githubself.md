@@ -24,7 +24,7 @@ GitHub Flavored Markdown语法(文件后缀名为MD，可直接在编辑状态�
 
 &copy
 
-AT&T
+<P>AT&T</P>
 
 4 < 5
 
