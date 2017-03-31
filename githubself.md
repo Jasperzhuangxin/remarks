@@ -3,7 +3,8 @@
 <td>用于长时间未使用github时快速回忆git命令</td>
 </tr>
 </table>
-GitHub Flavored Markdown语法(文件后缀名为MD，可直接在编辑状态下修改文件名）
+GitHub Flavored Markdown语法 (文件后缀名为MD，可直接在编辑状态下修改文件名）
+
 >行强调
 <pre><code>这是一个代码区块
 </code></pre>
