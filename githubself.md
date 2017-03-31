@@ -28,5 +28,6 @@ GitHub Flavored Markdown语法(文件后缀名为MD，可直接在编辑状态�
 
 4 < 5
 
-
+<pre><code>这是一个代码区块。
+</code></pre>
 
