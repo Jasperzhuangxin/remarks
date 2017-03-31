@@ -6,8 +6,8 @@ GitHub，是一项服务，是在网络上提供Git仓库的一项服务。
 
 GitHub的几项功能
 
-Pull Request
-
+Pull Request，指开发者在本地对源代码进行更改后，向GitHub中托管的Git仓库请求合并的功能。
+由于也提供了Wiki功能，开发者可以轻松创建文档，进行公开、共享。
 
 
 
