@@ -29,7 +29,7 @@ GitHub Flavored Markdown语法 (文件后缀名为MD，可直接在编辑状态�
 
 Git，开发者将源代码存入名叫“Git仓库”的资料中并加以使用。
 
-GitHub，是一项服务，  是在网络上提供Git仓库的一项服务。
+GitHub，是一项服务，是在网络上提供Git仓库的一项服务。
 
 即：GitHub上公开的软件源代码全部都是由Git进行管理。
 
