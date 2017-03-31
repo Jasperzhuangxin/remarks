@@ -22,12 +22,15 @@ Pull Request，指开发者在本地对源代码进行更改后，向GitHub中�
 
 GitHub Flavored Markdown语法(文件后缀名为MD，可直接在编辑状态下修改文件名）
 
-&copy
+&amp;copy
 
 <P>AT&T</P>
 
-4 < 5
+< 5
 
-<pre><code>这是一个代码区块。
+>5
+
+<pre><code>
+这是一个代码区块。
 </code></pre>
 
