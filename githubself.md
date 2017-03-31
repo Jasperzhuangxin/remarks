@@ -15,6 +15,13 @@ GitHub Flavored Markdown语法 (文件后缀名为MD，可直接在编辑状态�
 <li>Parish</li>
 </ol>
 
+* A
+
++ B
+
+- C
+
+
 ### GitHub简介
 
 ***
